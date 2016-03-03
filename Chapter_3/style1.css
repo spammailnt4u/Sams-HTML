@@ -1,0 +1,41 @@
+body {
+  font-size: 12pt;
+  font-family: "Comic Sans";
+  color: purple;
+  padding-left: 5pt;
+  padding-right: 5pt;
+  padding-top: 5pt;
+  background-color: green;
+  text-align: center;
+}
+h1.Uno{
+  font-size: 30pt;
+  font-family: "comic sans";
+  font-weight: bold;
+  line-height: 25pt;
+  color: black;
+  display: inline;
+}
+h1.Dos{
+  font-size: 20pt;
+  color: black;
+}
+aside {
+  font-weight: lighter;
+  font-style: oblique;
+  color: gray;
+  display: inline;
+}
+p {
+  font-size: 12pt;
+  color: inherit;
+  border-color: brown;
+  border-width: 40px;
+  border-style: ridge;
+}
+footer {
+  font-size: 5pt;
+  font-style: italic;
+  font-family: monospace;
+  color: tan;
+}
