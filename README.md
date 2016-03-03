@@ -1,2 +1,2 @@
 # Sams-HTML
-Files from Sams book
+Practice pages from Sams HTML, CSS, and Javascript book.
